@@ -1,0 +1,548 @@
+{
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "relational-episodes/1.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+    },
+    "episode_set_or_graph_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+    },
+    "split": {
+      "enum": [
+        "interface_train",
+        "development",
+        "id_test",
+        "ood_names",
+        "ood_template",
+        "ood_topology"
+      ]
+    },
+    "mode": {
+      "enum": [
+        "structural",
+        "episodic"
+      ]
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entity"
+      },
+      "maxItems": 1024
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/relation"
+      },
+      "maxItems": 16
+    },
+    "source_edges": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/edge"
+      },
+      "maxItems": 8192
+    },
+    "aliases_with_scope": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/alias"
+      },
+      "maxItems": 8192
+    },
+    "episodes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/episode"
+      },
+      "maxItems": 128
+    },
+    "episode_id": {
+      "type": "null"
+    },
+    "acquisition_batch": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 127
+      },
+      "maxItems": 128,
+      "uniqueItems": true
+    },
+    "source_text": {
+      "type": "string"
+    },
+    "queries": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/query"
+      },
+      "maxItems": 512
+    },
+    "target_sets": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/target"
+      }
+    },
+    "proof_paths": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "$ref": "#/$defs/proof"
+        },
+        "maxItems": 8192
+      }
+    },
+    "counterfactual_links": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+      },
+      "maxItems": 32,
+      "uniqueItems": true
+    },
+    "audit": {
+      "type": "object",
+      "description": "Evaluator-only measured controls and provenance; runtime validator recomputes semantic and source invariants."
+    }
+  },
+  "required": [
+    "schema_version",
+    "id",
+    "episode_set_or_graph_id",
+    "split",
+    "mode",
+    "entities",
+    "relations",
+    "source_edges",
+    "aliases_with_scope",
+    "episodes",
+    "episode_id",
+    "acquisition_batch",
+    "source_text",
+    "queries",
+    "target_sets",
+    "proof_paths",
+    "counterfactual_links",
+    "audit"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:relational-episodes:record:1.0",
+  "title": "G3 immutable graph or episode-set record",
+  "$defs": {
+    "entity": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "type": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        }
+      },
+      "required": [
+        "id",
+        "type"
+      ],
+      "additionalProperties": false
+    },
+    "relation": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "subject_type": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "object_type": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        }
+      },
+      "required": [
+        "id",
+        "subject_type",
+        "object_type"
+      ],
+      "additionalProperties": false
+    },
+    "edge": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "subject": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "relation": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "object": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "episode_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "acquisition_batch": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 127
+        },
+        "occurrence": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 8192
+        }
+      },
+      "required": [
+        "id",
+        "subject",
+        "relation",
+        "object",
+        "episode_id",
+        "acquisition_batch",
+        "occurrence"
+      ],
+      "additionalProperties": false
+    },
+    "alias": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "alias": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "entity": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "episode_id": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        }
+      },
+      "required": [
+        "id",
+        "alias",
+        "entity",
+        "episode_id"
+      ],
+      "additionalProperties": false
+    },
+    "episode": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "cue": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "source_text": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "cue",
+        "source_text"
+      ],
+      "additionalProperties": false
+    },
+    "start": {
+      "type": "object",
+      "properties": {
+        "kind": {
+          "enum": [
+            "entity",
+            "alias"
+          ]
+        },
+        "value": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "cue": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        }
+      },
+      "required": [
+        "kind",
+        "value",
+        "cue"
+      ],
+      "additionalProperties": false
+    },
+    "query": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "kind": {
+          "enum": [
+            "atomic",
+            "join",
+            "all_matching",
+            "reconstruct"
+          ]
+        },
+        "start": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/start"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "relations": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+          },
+          "maxItems": 2
+        },
+        "episode_constraint": {
+          "enum": [
+            "any",
+            "distinct"
+          ]
+        },
+        "cue": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "prompt": {
+          "type": "string"
+        },
+        "first_cue": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "second_cue": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "start",
+        "relations",
+        "episode_constraint",
+        "cue",
+        "prompt",
+        "first_cue",
+        "second_cue"
+      ],
+      "additionalProperties": false
+    },
+    "event": {
+      "type": "object",
+      "properties": {
+        "cue": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "occurrence": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 8192
+        },
+        "subject": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "relation": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "object": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        }
+      },
+      "required": [
+        "cue",
+        "occurrence",
+        "subject",
+        "relation",
+        "object"
+      ],
+      "additionalProperties": false
+    },
+    "target": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "const": "entity_set"
+            },
+            "values": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+              },
+              "maxItems": 8192,
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "kind",
+            "values"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "const": "event_set"
+            },
+            "values": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/event"
+              },
+              "maxItems": 8192,
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "kind",
+            "values"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "const": "source"
+            },
+            "values": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "minItems": 1,
+              "maxItems": 1
+            }
+          },
+          "required": [
+            "kind",
+            "values"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "proof": {
+      "type": "object",
+      "properties": {
+        "answer": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "$ref": "#/$defs/event"
+            }
+          ]
+        },
+        "edge_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+          },
+          "maxItems": 2
+        },
+        "binding_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+          },
+          "maxItems": 1
+        },
+        "source_episode_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Za-z][A-Za-z0-9_]{0,63}$"
+        },
+        "cross_batch": {
+          "type": "boolean"
+        },
+        "cross_episode": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "answer",
+        "edge_ids",
+        "binding_ids",
+        "source_episode_id",
+        "cross_batch",
+        "cross_episode"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "description": "Runtime validators additionally enforce references, type signatures, local alias scope, occurrence uniqueness, exact oracle equality and grouped release invariants. JSON Schema validation alone is insufficient."
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "relational-episodes-config/1.0",
+  "seed": 20261002,
+  "structural": {
+    "interface_train": 1,
+    "development": 1,
+    "id_test": 1,
+    "ood_names": 1,
+    "ood_template": 1,
+    "ood_topology": 1
+  },
+  "episodic": {
+    "interface_train": 1,
+    "development": 1,
+    "id_test": 1,
+    "ood_names": 1,
+    "ood_template": 1,
+    "ood_topology": 0
+  },
+  "semantic_contract": "protocol-semantic-conventions/1.2"
+}

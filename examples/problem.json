@@ -1,0 +1,3540 @@
+{
+  "world": {
+    "mode": "episodic",
+    "entities": [
+      {
+        "id": "MKnownN010",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN022",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN052",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN033",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN039",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN013",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN062",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN035",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN028",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN032",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN053",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN050",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN002",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN048",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN016",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN008",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN042",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN040",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN055",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN006",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN046",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN045",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN023",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN057",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN005",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN019",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN024",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN020",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN044",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN026",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN060",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN041",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN031",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN051",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN030",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN049",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN061",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN058",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN007",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN000",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN011",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN037",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN012",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN034",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN017",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN014",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN015",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN003",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN004",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN047",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN009",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN038",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN029",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN063",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN036",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN054",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN021",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN001",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN056",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN027",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN043",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN059",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN025",
+        "type": "node"
+      },
+      {
+        "id": "MKnownN018",
+        "type": "node"
+      }
+    ],
+    "relations": [
+      {
+        "id": "MKnownR2",
+        "object_type": "node",
+        "subject_type": "node"
+      },
+      {
+        "id": "MKnownR0",
+        "object_type": "node",
+        "subject_type": "node"
+      },
+      {
+        "id": "MKnownR1",
+        "object_type": "node",
+        "subject_type": "node"
+      },
+      {
+        "id": "MKnownR3",
+        "object_type": "node",
+        "subject_type": "node"
+      }
+    ],
+    "source_edges": [
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_1",
+        "object": "MKnownN033",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN010"
+      },
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_2",
+        "object": "MKnownN052",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN022"
+      },
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_3",
+        "object": "MKnownN022",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN033"
+      },
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_4",
+        "object": "MKnownN010",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN052"
+      },
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_5",
+        "object": "MKnownN022",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN010"
+      },
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_6",
+        "object": "MKnownN052",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN033"
+      },
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_7",
+        "object": "MKnownN010",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN022"
+      },
+      {
+        "acquisition_batch": 0,
+        "episode_id": "episode000",
+        "id": "fact000_8",
+        "object": "MKnownN033",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN052"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_1",
+        "object": "MKnownN013",
+        "occurrence": 1,
+        "relation": "MKnownR2",
+        "subject": "MKnownN052"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_2",
+        "object": "MKnownN039",
+        "occurrence": 2,
+        "relation": "MKnownR2",
+        "subject": "MKnownN033"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_3",
+        "object": "MKnownN033",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN013"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_4",
+        "object": "MKnownN052",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN039"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_5",
+        "object": "MKnownN033",
+        "occurrence": 5,
+        "relation": "MKnownR1",
+        "subject": "MKnownN052"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_6",
+        "object": "MKnownN039",
+        "occurrence": 6,
+        "relation": "MKnownR1",
+        "subject": "MKnownN013"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_7",
+        "object": "MKnownN052",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN033"
+      },
+      {
+        "acquisition_batch": 1,
+        "episode_id": "episode001",
+        "id": "fact001_8",
+        "object": "MKnownN013",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN039"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_1",
+        "object": "MKnownN062",
+        "occurrence": 1,
+        "relation": "MKnownR0",
+        "subject": "MKnownN013"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_2",
+        "object": "MKnownN039",
+        "occurrence": 2,
+        "relation": "MKnownR0",
+        "subject": "MKnownN035"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_3",
+        "object": "MKnownN035",
+        "occurrence": 3,
+        "relation": "MKnownR1",
+        "subject": "MKnownN062"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_4",
+        "object": "MKnownN013",
+        "occurrence": 4,
+        "relation": "MKnownR1",
+        "subject": "MKnownN039"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_5",
+        "object": "MKnownN035",
+        "occurrence": 5,
+        "relation": "MKnownR3",
+        "subject": "MKnownN013"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_6",
+        "object": "MKnownN039",
+        "occurrence": 6,
+        "relation": "MKnownR3",
+        "subject": "MKnownN062"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_7",
+        "object": "MKnownN013",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN035"
+      },
+      {
+        "acquisition_batch": 2,
+        "episode_id": "episode002",
+        "id": "fact002_8",
+        "object": "MKnownN062",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN039"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_1",
+        "object": "MKnownN062",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN032"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_2",
+        "object": "MKnownN035",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN028"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_3",
+        "object": "MKnownN028",
+        "occurrence": 3,
+        "relation": "MKnownR2",
+        "subject": "MKnownN062"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_4",
+        "object": "MKnownN032",
+        "occurrence": 4,
+        "relation": "MKnownR2",
+        "subject": "MKnownN035"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_5",
+        "object": "MKnownN028",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN032"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_6",
+        "object": "MKnownN035",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN062"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_7",
+        "object": "MKnownN032",
+        "occurrence": 7,
+        "relation": "MKnownR3",
+        "subject": "MKnownN028"
+      },
+      {
+        "acquisition_batch": 3,
+        "episode_id": "episode003",
+        "id": "fact003_8",
+        "object": "MKnownN062",
+        "occurrence": 8,
+        "relation": "MKnownR3",
+        "subject": "MKnownN035"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_1",
+        "object": "MKnownN053",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN028"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_2",
+        "object": "MKnownN050",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN032"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_3",
+        "object": "MKnownN032",
+        "occurrence": 3,
+        "relation": "MKnownR1",
+        "subject": "MKnownN053"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_4",
+        "object": "MKnownN028",
+        "occurrence": 4,
+        "relation": "MKnownR1",
+        "subject": "MKnownN050"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_5",
+        "object": "MKnownN032",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN028"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_6",
+        "object": "MKnownN050",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN053"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_7",
+        "object": "MKnownN028",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN032"
+      },
+      {
+        "acquisition_batch": 4,
+        "episode_id": "episode004",
+        "id": "fact004_8",
+        "object": "MKnownN053",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN050"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_1",
+        "object": "MKnownN048",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN050"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_2",
+        "object": "MKnownN053",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN002"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_3",
+        "object": "MKnownN002",
+        "occurrence": 3,
+        "relation": "MKnownR2",
+        "subject": "MKnownN048"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_4",
+        "object": "MKnownN050",
+        "occurrence": 4,
+        "relation": "MKnownR2",
+        "subject": "MKnownN053"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_5",
+        "object": "MKnownN002",
+        "occurrence": 5,
+        "relation": "MKnownR1",
+        "subject": "MKnownN050"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_6",
+        "object": "MKnownN053",
+        "occurrence": 6,
+        "relation": "MKnownR1",
+        "subject": "MKnownN048"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_7",
+        "object": "MKnownN050",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN002"
+      },
+      {
+        "acquisition_batch": 5,
+        "episode_id": "episode005",
+        "id": "fact005_8",
+        "object": "MKnownN048",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN053"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_1",
+        "object": "MKnownN008",
+        "occurrence": 1,
+        "relation": "MKnownR0",
+        "subject": "MKnownN048"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_2",
+        "object": "MKnownN002",
+        "occurrence": 2,
+        "relation": "MKnownR0",
+        "subject": "MKnownN016"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_3",
+        "object": "MKnownN016",
+        "occurrence": 3,
+        "relation": "MKnownR1",
+        "subject": "MKnownN008"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_4",
+        "object": "MKnownN048",
+        "occurrence": 4,
+        "relation": "MKnownR1",
+        "subject": "MKnownN002"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_5",
+        "object": "MKnownN016",
+        "occurrence": 5,
+        "relation": "MKnownR3",
+        "subject": "MKnownN048"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_6",
+        "object": "MKnownN002",
+        "occurrence": 6,
+        "relation": "MKnownR3",
+        "subject": "MKnownN008"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_7",
+        "object": "MKnownN048",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN016"
+      },
+      {
+        "acquisition_batch": 6,
+        "episode_id": "episode006",
+        "id": "fact006_8",
+        "object": "MKnownN008",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN002"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_1",
+        "object": "MKnownN042",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN040"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_2",
+        "object": "MKnownN016",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN008"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_3",
+        "object": "MKnownN008",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN042"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_4",
+        "object": "MKnownN040",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN016"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_5",
+        "object": "MKnownN008",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN040"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_6",
+        "object": "MKnownN016",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN042"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_7",
+        "object": "MKnownN040",
+        "occurrence": 7,
+        "relation": "MKnownR3",
+        "subject": "MKnownN008"
+      },
+      {
+        "acquisition_batch": 7,
+        "episode_id": "episode007",
+        "id": "fact007_8",
+        "object": "MKnownN042",
+        "occurrence": 8,
+        "relation": "MKnownR3",
+        "subject": "MKnownN016"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_1",
+        "object": "MKnownN040",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN055"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_2",
+        "object": "MKnownN006",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN042"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_3",
+        "object": "MKnownN042",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN040"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_4",
+        "object": "MKnownN055",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN006"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_5",
+        "object": "MKnownN042",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN055"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_6",
+        "object": "MKnownN006",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN040"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_7",
+        "object": "MKnownN055",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN042"
+      },
+      {
+        "acquisition_batch": 8,
+        "episode_id": "episode008",
+        "id": "fact008_8",
+        "object": "MKnownN040",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN006"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_1",
+        "object": "MKnownN006",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN055"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_2",
+        "object": "MKnownN045",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN046"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_3",
+        "object": "MKnownN046",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN006"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_4",
+        "object": "MKnownN055",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN045"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_5",
+        "object": "MKnownN046",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN055"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_6",
+        "object": "MKnownN045",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN006"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_7",
+        "object": "MKnownN055",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN046"
+      },
+      {
+        "acquisition_batch": 9,
+        "episode_id": "episode009",
+        "id": "fact009_8",
+        "object": "MKnownN006",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN045"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_1",
+        "object": "MKnownN045",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN023"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_2",
+        "object": "MKnownN057",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN046"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_3",
+        "object": "MKnownN046",
+        "occurrence": 3,
+        "relation": "MKnownR2",
+        "subject": "MKnownN045"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_4",
+        "object": "MKnownN023",
+        "occurrence": 4,
+        "relation": "MKnownR2",
+        "subject": "MKnownN057"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_5",
+        "object": "MKnownN046",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN023"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_6",
+        "object": "MKnownN057",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN045"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_7",
+        "object": "MKnownN023",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN046"
+      },
+      {
+        "acquisition_batch": 10,
+        "episode_id": "episode010",
+        "id": "fact010_8",
+        "object": "MKnownN045",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN057"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_1",
+        "object": "MKnownN019",
+        "occurrence": 1,
+        "relation": "MKnownR0",
+        "subject": "MKnownN005"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_2",
+        "object": "MKnownN023",
+        "occurrence": 2,
+        "relation": "MKnownR0",
+        "subject": "MKnownN057"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_3",
+        "object": "MKnownN057",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN019"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_4",
+        "object": "MKnownN005",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN023"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_5",
+        "object": "MKnownN057",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN005"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_6",
+        "object": "MKnownN023",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN019"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_7",
+        "object": "MKnownN005",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN057"
+      },
+      {
+        "acquisition_batch": 11,
+        "episode_id": "episode011",
+        "id": "fact011_8",
+        "object": "MKnownN019",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN023"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_1",
+        "object": "MKnownN019",
+        "occurrence": 1,
+        "relation": "MKnownR2",
+        "subject": "MKnownN020"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_2",
+        "object": "MKnownN005",
+        "occurrence": 2,
+        "relation": "MKnownR2",
+        "subject": "MKnownN024"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_3",
+        "object": "MKnownN024",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN019"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_4",
+        "object": "MKnownN020",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN005"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_5",
+        "object": "MKnownN024",
+        "occurrence": 5,
+        "relation": "MKnownR1",
+        "subject": "MKnownN020"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_6",
+        "object": "MKnownN005",
+        "occurrence": 6,
+        "relation": "MKnownR1",
+        "subject": "MKnownN019"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_7",
+        "object": "MKnownN020",
+        "occurrence": 7,
+        "relation": "MKnownR3",
+        "subject": "MKnownN024"
+      },
+      {
+        "acquisition_batch": 12,
+        "episode_id": "episode012",
+        "id": "fact012_8",
+        "object": "MKnownN019",
+        "occurrence": 8,
+        "relation": "MKnownR3",
+        "subject": "MKnownN005"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_1",
+        "object": "MKnownN020",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN026"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_2",
+        "object": "MKnownN024",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN044"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_3",
+        "object": "MKnownN044",
+        "occurrence": 3,
+        "relation": "MKnownR1",
+        "subject": "MKnownN020"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_4",
+        "object": "MKnownN026",
+        "occurrence": 4,
+        "relation": "MKnownR1",
+        "subject": "MKnownN024"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_5",
+        "object": "MKnownN044",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN026"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_6",
+        "object": "MKnownN024",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN020"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_7",
+        "object": "MKnownN026",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN044"
+      },
+      {
+        "acquisition_batch": 13,
+        "episode_id": "episode013",
+        "id": "fact013_8",
+        "object": "MKnownN020",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN024"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_1",
+        "object": "MKnownN026",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN060"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_2",
+        "object": "MKnownN044",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN041"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_3",
+        "object": "MKnownN041",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN026"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_4",
+        "object": "MKnownN060",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN044"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_5",
+        "object": "MKnownN041",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN060"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_6",
+        "object": "MKnownN044",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN026"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_7",
+        "object": "MKnownN060",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN041"
+      },
+      {
+        "acquisition_batch": 14,
+        "episode_id": "episode014",
+        "id": "fact014_8",
+        "object": "MKnownN026",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN044"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_1",
+        "object": "MKnownN041",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN031"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_2",
+        "object": "MKnownN060",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN051"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_3",
+        "object": "MKnownN051",
+        "occurrence": 3,
+        "relation": "MKnownR1",
+        "subject": "MKnownN041"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_4",
+        "object": "MKnownN031",
+        "occurrence": 4,
+        "relation": "MKnownR1",
+        "subject": "MKnownN060"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_5",
+        "object": "MKnownN051",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN031"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_6",
+        "object": "MKnownN060",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN041"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_7",
+        "object": "MKnownN031",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN051"
+      },
+      {
+        "acquisition_batch": 15,
+        "episode_id": "episode015",
+        "id": "fact015_8",
+        "object": "MKnownN041",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN060"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_1",
+        "object": "MKnownN049",
+        "occurrence": 1,
+        "relation": "MKnownR2",
+        "subject": "MKnownN031"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_2",
+        "object": "MKnownN051",
+        "occurrence": 2,
+        "relation": "MKnownR2",
+        "subject": "MKnownN030"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_3",
+        "object": "MKnownN030",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN049"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_4",
+        "object": "MKnownN031",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN051"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_5",
+        "object": "MKnownN030",
+        "occurrence": 5,
+        "relation": "MKnownR1",
+        "subject": "MKnownN031"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_6",
+        "object": "MKnownN051",
+        "occurrence": 6,
+        "relation": "MKnownR1",
+        "subject": "MKnownN049"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_7",
+        "object": "MKnownN031",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN030"
+      },
+      {
+        "acquisition_batch": 16,
+        "episode_id": "episode016",
+        "id": "fact016_8",
+        "object": "MKnownN049",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN051"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_1",
+        "object": "MKnownN058",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN049"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_2",
+        "object": "MKnownN030",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN061"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_3",
+        "object": "MKnownN061",
+        "occurrence": 3,
+        "relation": "MKnownR1",
+        "subject": "MKnownN058"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_4",
+        "object": "MKnownN049",
+        "occurrence": 4,
+        "relation": "MKnownR1",
+        "subject": "MKnownN030"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_5",
+        "object": "MKnownN061",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN049"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_6",
+        "object": "MKnownN030",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN058"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_7",
+        "object": "MKnownN049",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN061"
+      },
+      {
+        "acquisition_batch": 17,
+        "episode_id": "episode017",
+        "id": "fact017_8",
+        "object": "MKnownN058",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN030"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_1",
+        "object": "MKnownN007",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN061"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_2",
+        "object": "MKnownN000",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN058"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_3",
+        "object": "MKnownN058",
+        "occurrence": 3,
+        "relation": "MKnownR1",
+        "subject": "MKnownN007"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_4",
+        "object": "MKnownN061",
+        "occurrence": 4,
+        "relation": "MKnownR1",
+        "subject": "MKnownN000"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_5",
+        "object": "MKnownN058",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN061"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_6",
+        "object": "MKnownN000",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN007"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_7",
+        "object": "MKnownN061",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN058"
+      },
+      {
+        "acquisition_batch": 18,
+        "episode_id": "episode018",
+        "id": "fact018_8",
+        "object": "MKnownN007",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN000"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_1",
+        "object": "MKnownN000",
+        "occurrence": 1,
+        "relation": "MKnownR0",
+        "subject": "MKnownN037"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_2",
+        "object": "MKnownN007",
+        "occurrence": 2,
+        "relation": "MKnownR0",
+        "subject": "MKnownN011"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_3",
+        "object": "MKnownN011",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN000"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_4",
+        "object": "MKnownN037",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN007"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_5",
+        "object": "MKnownN011",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN037"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_6",
+        "object": "MKnownN007",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN000"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_7",
+        "object": "MKnownN037",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN011"
+      },
+      {
+        "acquisition_batch": 19,
+        "episode_id": "episode019",
+        "id": "fact019_8",
+        "object": "MKnownN000",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN007"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_1",
+        "object": "MKnownN011",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN037"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_2",
+        "object": "MKnownN012",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN034"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_3",
+        "object": "MKnownN034",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN011"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_4",
+        "object": "MKnownN037",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN012"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_5",
+        "object": "MKnownN034",
+        "occurrence": 5,
+        "relation": "MKnownR3",
+        "subject": "MKnownN037"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_6",
+        "object": "MKnownN012",
+        "occurrence": 6,
+        "relation": "MKnownR3",
+        "subject": "MKnownN011"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_7",
+        "object": "MKnownN037",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN034"
+      },
+      {
+        "acquisition_batch": 20,
+        "episode_id": "episode020",
+        "id": "fact020_8",
+        "object": "MKnownN011",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN012"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_1",
+        "object": "MKnownN014",
+        "occurrence": 1,
+        "relation": "MKnownR0",
+        "subject": "MKnownN034"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_2",
+        "object": "MKnownN012",
+        "occurrence": 2,
+        "relation": "MKnownR0",
+        "subject": "MKnownN017"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_3",
+        "object": "MKnownN017",
+        "occurrence": 3,
+        "relation": "MKnownR2",
+        "subject": "MKnownN014"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_4",
+        "object": "MKnownN034",
+        "occurrence": 4,
+        "relation": "MKnownR2",
+        "subject": "MKnownN012"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_5",
+        "object": "MKnownN017",
+        "occurrence": 5,
+        "relation": "MKnownR3",
+        "subject": "MKnownN034"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_6",
+        "object": "MKnownN012",
+        "occurrence": 6,
+        "relation": "MKnownR3",
+        "subject": "MKnownN014"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_7",
+        "object": "MKnownN034",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN017"
+      },
+      {
+        "acquisition_batch": 21,
+        "episode_id": "episode021",
+        "id": "fact021_8",
+        "object": "MKnownN014",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN012"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_1",
+        "object": "MKnownN015",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN014"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_2",
+        "object": "MKnownN003",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN017"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_3",
+        "object": "MKnownN017",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN015"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_4",
+        "object": "MKnownN014",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN003"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_5",
+        "object": "MKnownN017",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN014"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_6",
+        "object": "MKnownN003",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN015"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_7",
+        "object": "MKnownN014",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN017"
+      },
+      {
+        "acquisition_batch": 22,
+        "episode_id": "episode022",
+        "id": "fact022_8",
+        "object": "MKnownN015",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN003"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_1",
+        "object": "MKnownN015",
+        "occurrence": 1,
+        "relation": "MKnownR2",
+        "subject": "MKnownN047"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_2",
+        "object": "MKnownN004",
+        "occurrence": 2,
+        "relation": "MKnownR2",
+        "subject": "MKnownN003"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_3",
+        "object": "MKnownN003",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN015"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_4",
+        "object": "MKnownN047",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN004"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_5",
+        "object": "MKnownN003",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN047"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_6",
+        "object": "MKnownN004",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN015"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_7",
+        "object": "MKnownN047",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN003"
+      },
+      {
+        "acquisition_batch": 23,
+        "episode_id": "episode023",
+        "id": "fact023_8",
+        "object": "MKnownN015",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN004"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_1",
+        "object": "MKnownN038",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN009"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_2",
+        "object": "MKnownN004",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN047"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_3",
+        "object": "MKnownN047",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN038"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_4",
+        "object": "MKnownN009",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN004"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_5",
+        "object": "MKnownN047",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN009"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_6",
+        "object": "MKnownN004",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN038"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_7",
+        "object": "MKnownN009",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN047"
+      },
+      {
+        "acquisition_batch": 24,
+        "episode_id": "episode024",
+        "id": "fact024_8",
+        "object": "MKnownN038",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN004"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_1",
+        "object": "MKnownN063",
+        "occurrence": 1,
+        "relation": "MKnownR0",
+        "subject": "MKnownN038"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_2",
+        "object": "MKnownN009",
+        "occurrence": 2,
+        "relation": "MKnownR0",
+        "subject": "MKnownN029"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_3",
+        "object": "MKnownN029",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN063"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_4",
+        "object": "MKnownN038",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN009"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_5",
+        "object": "MKnownN029",
+        "occurrence": 5,
+        "relation": "MKnownR1",
+        "subject": "MKnownN038"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_6",
+        "object": "MKnownN009",
+        "occurrence": 6,
+        "relation": "MKnownR1",
+        "subject": "MKnownN063"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_7",
+        "object": "MKnownN038",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN029"
+      },
+      {
+        "acquisition_batch": 25,
+        "episode_id": "episode025",
+        "id": "fact025_8",
+        "object": "MKnownN063",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN009"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_1",
+        "object": "MKnownN063",
+        "occurrence": 1,
+        "relation": "MKnownR0",
+        "subject": "MKnownN029"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_2",
+        "object": "MKnownN036",
+        "occurrence": 2,
+        "relation": "MKnownR0",
+        "subject": "MKnownN054"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_3",
+        "object": "MKnownN054",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN063"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_4",
+        "object": "MKnownN029",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN036"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_5",
+        "object": "MKnownN054",
+        "occurrence": 5,
+        "relation": "MKnownR1",
+        "subject": "MKnownN029"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_6",
+        "object": "MKnownN036",
+        "occurrence": 6,
+        "relation": "MKnownR1",
+        "subject": "MKnownN063"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_7",
+        "object": "MKnownN029",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN054"
+      },
+      {
+        "acquisition_batch": 26,
+        "episode_id": "episode026",
+        "id": "fact026_8",
+        "object": "MKnownN063",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN036"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_1",
+        "object": "MKnownN054",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN001"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_2",
+        "object": "MKnownN036",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN021"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_3",
+        "object": "MKnownN021",
+        "occurrence": 3,
+        "relation": "MKnownR3",
+        "subject": "MKnownN054"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_4",
+        "object": "MKnownN001",
+        "occurrence": 4,
+        "relation": "MKnownR3",
+        "subject": "MKnownN036"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_5",
+        "object": "MKnownN021",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN001"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_6",
+        "object": "MKnownN036",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN054"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_7",
+        "object": "MKnownN001",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN021"
+      },
+      {
+        "acquisition_batch": 27,
+        "episode_id": "episode027",
+        "id": "fact027_8",
+        "object": "MKnownN054",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN036"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_1",
+        "object": "MKnownN001",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN027"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_2",
+        "object": "MKnownN021",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN056"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_3",
+        "object": "MKnownN056",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN001"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_4",
+        "object": "MKnownN027",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN021"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_5",
+        "object": "MKnownN056",
+        "occurrence": 5,
+        "relation": "MKnownR3",
+        "subject": "MKnownN027"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_6",
+        "object": "MKnownN021",
+        "occurrence": 6,
+        "relation": "MKnownR3",
+        "subject": "MKnownN001"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_7",
+        "object": "MKnownN027",
+        "occurrence": 7,
+        "relation": "MKnownR2",
+        "subject": "MKnownN056"
+      },
+      {
+        "acquisition_batch": 28,
+        "episode_id": "episode028",
+        "id": "fact028_8",
+        "object": "MKnownN001",
+        "occurrence": 8,
+        "relation": "MKnownR2",
+        "subject": "MKnownN021"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_1",
+        "object": "MKnownN056",
+        "occurrence": 1,
+        "relation": "MKnownR1",
+        "subject": "MKnownN043"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_2",
+        "object": "MKnownN059",
+        "occurrence": 2,
+        "relation": "MKnownR1",
+        "subject": "MKnownN027"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_3",
+        "object": "MKnownN027",
+        "occurrence": 3,
+        "relation": "MKnownR2",
+        "subject": "MKnownN056"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_4",
+        "object": "MKnownN043",
+        "occurrence": 4,
+        "relation": "MKnownR2",
+        "subject": "MKnownN059"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_5",
+        "object": "MKnownN027",
+        "occurrence": 5,
+        "relation": "MKnownR3",
+        "subject": "MKnownN043"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_6",
+        "object": "MKnownN059",
+        "occurrence": 6,
+        "relation": "MKnownR3",
+        "subject": "MKnownN056"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_7",
+        "object": "MKnownN043",
+        "occurrence": 7,
+        "relation": "MKnownR0",
+        "subject": "MKnownN027"
+      },
+      {
+        "acquisition_batch": 29,
+        "episode_id": "episode029",
+        "id": "fact029_8",
+        "object": "MKnownN056",
+        "occurrence": 8,
+        "relation": "MKnownR0",
+        "subject": "MKnownN059"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_1",
+        "object": "MKnownN018",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN059"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_2",
+        "object": "MKnownN043",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN025"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_3",
+        "object": "MKnownN025",
+        "occurrence": 3,
+        "relation": "MKnownR2",
+        "subject": "MKnownN018"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_4",
+        "object": "MKnownN059",
+        "occurrence": 4,
+        "relation": "MKnownR2",
+        "subject": "MKnownN043"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_5",
+        "object": "MKnownN025",
+        "occurrence": 5,
+        "relation": "MKnownR0",
+        "subject": "MKnownN059"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_6",
+        "object": "MKnownN043",
+        "occurrence": 6,
+        "relation": "MKnownR0",
+        "subject": "MKnownN018"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_7",
+        "object": "MKnownN059",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN025"
+      },
+      {
+        "acquisition_batch": 30,
+        "episode_id": "episode030",
+        "id": "fact030_8",
+        "object": "MKnownN018",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN043"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_1",
+        "object": "MKnownN010",
+        "occurrence": 1,
+        "relation": "MKnownR3",
+        "subject": "MKnownN018"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_2",
+        "object": "MKnownN025",
+        "occurrence": 2,
+        "relation": "MKnownR3",
+        "subject": "MKnownN022"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_3",
+        "object": "MKnownN022",
+        "occurrence": 3,
+        "relation": "MKnownR0",
+        "subject": "MKnownN010"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_4",
+        "object": "MKnownN018",
+        "occurrence": 4,
+        "relation": "MKnownR0",
+        "subject": "MKnownN025"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_5",
+        "object": "MKnownN022",
+        "occurrence": 5,
+        "relation": "MKnownR2",
+        "subject": "MKnownN018"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_6",
+        "object": "MKnownN025",
+        "occurrence": 6,
+        "relation": "MKnownR2",
+        "subject": "MKnownN010"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_7",
+        "object": "MKnownN018",
+        "occurrence": 7,
+        "relation": "MKnownR1",
+        "subject": "MKnownN022"
+      },
+      {
+        "acquisition_batch": 31,
+        "episode_id": "episode031",
+        "id": "fact031_8",
+        "object": "MKnownN010",
+        "occurrence": 8,
+        "relation": "MKnownR1",
+        "subject": "MKnownN025"
+      }
+    ],
+    "aliases_with_scope": [
+      {
+        "alias": "MA031",
+        "entity": "MKnownN010",
+        "episode_id": "episode000",
+        "id": "binding000_0"
+      },
+      {
+        "alias": "MA060",
+        "entity": "MKnownN022",
+        "episode_id": "episode000",
+        "id": "binding000_1"
+      },
+      {
+        "alias": "MA005",
+        "entity": "MKnownN052",
+        "episode_id": "episode000",
+        "id": "binding000_2"
+      },
+      {
+        "alias": "MA043",
+        "entity": "MKnownN033",
+        "episode_id": "episode000",
+        "id": "binding000_3"
+      },
+      {
+        "alias": "MA005",
+        "entity": "MKnownN052",
+        "episode_id": "episode001",
+        "id": "binding001_0"
+      },
+      {
+        "alias": "MA043",
+        "entity": "MKnownN033",
+        "episode_id": "episode001",
+        "id": "binding001_1"
+      },
+      {
+        "alias": "MA002",
+        "entity": "MKnownN039",
+        "episode_id": "episode001",
+        "id": "binding001_2"
+      },
+      {
+        "alias": "MA050",
+        "entity": "MKnownN013",
+        "episode_id": "episode001",
+        "id": "binding001_3"
+      },
+      {
+        "alias": "MA002",
+        "entity": "MKnownN039",
+        "episode_id": "episode002",
+        "id": "binding002_0"
+      },
+      {
+        "alias": "MA050",
+        "entity": "MKnownN013",
+        "episode_id": "episode002",
+        "id": "binding002_1"
+      },
+      {
+        "alias": "MA021",
+        "entity": "MKnownN062",
+        "episode_id": "episode002",
+        "id": "binding002_2"
+      },
+      {
+        "alias": "MA040",
+        "entity": "MKnownN035",
+        "episode_id": "episode002",
+        "id": "binding002_3"
+      },
+      {
+        "alias": "MA021",
+        "entity": "MKnownN062",
+        "episode_id": "episode003",
+        "id": "binding003_0"
+      },
+      {
+        "alias": "MA040",
+        "entity": "MKnownN035",
+        "episode_id": "episode003",
+        "id": "binding003_1"
+      },
+      {
+        "alias": "MA037",
+        "entity": "MKnownN028",
+        "episode_id": "episode003",
+        "id": "binding003_2"
+      },
+      {
+        "alias": "MA049",
+        "entity": "MKnownN032",
+        "episode_id": "episode003",
+        "id": "binding003_3"
+      },
+      {
+        "alias": "MA037",
+        "entity": "MKnownN028",
+        "episode_id": "episode004",
+        "id": "binding004_0"
+      },
+      {
+        "alias": "MA049",
+        "entity": "MKnownN032",
+        "episode_id": "episode004",
+        "id": "binding004_1"
+      },
+      {
+        "alias": "MA013",
+        "entity": "MKnownN053",
+        "episode_id": "episode004",
+        "id": "binding004_2"
+      },
+      {
+        "alias": "MA045",
+        "entity": "MKnownN050",
+        "episode_id": "episode004",
+        "id": "binding004_3"
+      },
+      {
+        "alias": "MA013",
+        "entity": "MKnownN053",
+        "episode_id": "episode005",
+        "id": "binding005_0"
+      },
+      {
+        "alias": "MA045",
+        "entity": "MKnownN050",
+        "episode_id": "episode005",
+        "id": "binding005_1"
+      },
+      {
+        "alias": "MA000",
+        "entity": "MKnownN002",
+        "episode_id": "episode005",
+        "id": "binding005_2"
+      },
+      {
+        "alias": "MA020",
+        "entity": "MKnownN048",
+        "episode_id": "episode005",
+        "id": "binding005_3"
+      },
+      {
+        "alias": "MA000",
+        "entity": "MKnownN002",
+        "episode_id": "episode006",
+        "id": "binding006_0"
+      },
+      {
+        "alias": "MA020",
+        "entity": "MKnownN048",
+        "episode_id": "episode006",
+        "id": "binding006_1"
+      },
+      {
+        "alias": "MA019",
+        "entity": "MKnownN016",
+        "episode_id": "episode006",
+        "id": "binding006_2"
+      },
+      {
+        "alias": "MA011",
+        "entity": "MKnownN008",
+        "episode_id": "episode006",
+        "id": "binding006_3"
+      },
+      {
+        "alias": "MA019",
+        "entity": "MKnownN016",
+        "episode_id": "episode007",
+        "id": "binding007_0"
+      },
+      {
+        "alias": "MA011",
+        "entity": "MKnownN008",
+        "episode_id": "episode007",
+        "id": "binding007_1"
+      },
+      {
+        "alias": "MA015",
+        "entity": "MKnownN042",
+        "episode_id": "episode007",
+        "id": "binding007_2"
+      },
+      {
+        "alias": "MA054",
+        "entity": "MKnownN040",
+        "episode_id": "episode007",
+        "id": "binding007_3"
+      },
+      {
+        "alias": "MA015",
+        "entity": "MKnownN042",
+        "episode_id": "episode008",
+        "id": "binding008_0"
+      },
+      {
+        "alias": "MA054",
+        "entity": "MKnownN040",
+        "episode_id": "episode008",
+        "id": "binding008_1"
+      },
+      {
+        "alias": "MA032",
+        "entity": "MKnownN055",
+        "episode_id": "episode008",
+        "id": "binding008_2"
+      },
+      {
+        "alias": "MA001",
+        "entity": "MKnownN006",
+        "episode_id": "episode008",
+        "id": "binding008_3"
+      },
+      {
+        "alias": "MA032",
+        "entity": "MKnownN055",
+        "episode_id": "episode009",
+        "id": "binding009_0"
+      },
+      {
+        "alias": "MA001",
+        "entity": "MKnownN006",
+        "episode_id": "episode009",
+        "id": "binding009_1"
+      },
+      {
+        "alias": "MA009",
+        "entity": "MKnownN046",
+        "episode_id": "episode009",
+        "id": "binding009_2"
+      },
+      {
+        "alias": "MA038",
+        "entity": "MKnownN045",
+        "episode_id": "episode009",
+        "id": "binding009_3"
+      },
+      {
+        "alias": "MA009",
+        "entity": "MKnownN046",
+        "episode_id": "episode010",
+        "id": "binding010_0"
+      },
+      {
+        "alias": "MA038",
+        "entity": "MKnownN045",
+        "episode_id": "episode010",
+        "id": "binding010_1"
+      },
+      {
+        "alias": "MA041",
+        "entity": "MKnownN023",
+        "episode_id": "episode010",
+        "id": "binding010_2"
+      },
+      {
+        "alias": "MA042",
+        "entity": "MKnownN057",
+        "episode_id": "episode010",
+        "id": "binding010_3"
+      },
+      {
+        "alias": "MA041",
+        "entity": "MKnownN023",
+        "episode_id": "episode011",
+        "id": "binding011_0"
+      },
+      {
+        "alias": "MA042",
+        "entity": "MKnownN057",
+        "episode_id": "episode011",
+        "id": "binding011_1"
+      },
+      {
+        "alias": "MA025",
+        "entity": "MKnownN005",
+        "episode_id": "episode011",
+        "id": "binding011_2"
+      },
+      {
+        "alias": "MA033",
+        "entity": "MKnownN019",
+        "episode_id": "episode011",
+        "id": "binding011_3"
+      },
+      {
+        "alias": "MA025",
+        "entity": "MKnownN005",
+        "episode_id": "episode012",
+        "id": "binding012_0"
+      },
+      {
+        "alias": "MA033",
+        "entity": "MKnownN019",
+        "episode_id": "episode012",
+        "id": "binding012_1"
+      },
+      {
+        "alias": "MA004",
+        "entity": "MKnownN024",
+        "episode_id": "episode012",
+        "id": "binding012_2"
+      },
+      {
+        "alias": "MA003",
+        "entity": "MKnownN020",
+        "episode_id": "episode012",
+        "id": "binding012_3"
+      },
+      {
+        "alias": "MA004",
+        "entity": "MKnownN024",
+        "episode_id": "episode013",
+        "id": "binding013_0"
+      },
+      {
+        "alias": "MA003",
+        "entity": "MKnownN020",
+        "episode_id": "episode013",
+        "id": "binding013_1"
+      },
+      {
+        "alias": "MA047",
+        "entity": "MKnownN044",
+        "episode_id": "episode013",
+        "id": "binding013_2"
+      },
+      {
+        "alias": "MA030",
+        "entity": "MKnownN026",
+        "episode_id": "episode013",
+        "id": "binding013_3"
+      },
+      {
+        "alias": "MA047",
+        "entity": "MKnownN044",
+        "episode_id": "episode014",
+        "id": "binding014_0"
+      },
+      {
+        "alias": "MA030",
+        "entity": "MKnownN026",
+        "episode_id": "episode014",
+        "id": "binding014_1"
+      },
+      {
+        "alias": "MA023",
+        "entity": "MKnownN060",
+        "episode_id": "episode014",
+        "id": "binding014_2"
+      },
+      {
+        "alias": "MA048",
+        "entity": "MKnownN041",
+        "episode_id": "episode014",
+        "id": "binding014_3"
+      },
+      {
+        "alias": "MA023",
+        "entity": "MKnownN060",
+        "episode_id": "episode015",
+        "id": "binding015_0"
+      },
+      {
+        "alias": "MA048",
+        "entity": "MKnownN041",
+        "episode_id": "episode015",
+        "id": "binding015_1"
+      },
+      {
+        "alias": "MA051",
+        "entity": "MKnownN031",
+        "episode_id": "episode015",
+        "id": "binding015_2"
+      },
+      {
+        "alias": "MA055",
+        "entity": "MKnownN051",
+        "episode_id": "episode015",
+        "id": "binding015_3"
+      },
+      {
+        "alias": "MA051",
+        "entity": "MKnownN031",
+        "episode_id": "episode016",
+        "id": "binding016_0"
+      },
+      {
+        "alias": "MA055",
+        "entity": "MKnownN051",
+        "episode_id": "episode016",
+        "id": "binding016_1"
+      },
+      {
+        "alias": "MA035",
+        "entity": "MKnownN030",
+        "episode_id": "episode016",
+        "id": "binding016_2"
+      },
+      {
+        "alias": "MA014",
+        "entity": "MKnownN049",
+        "episode_id": "episode016",
+        "id": "binding016_3"
+      },
+      {
+        "alias": "MA035",
+        "entity": "MKnownN030",
+        "episode_id": "episode017",
+        "id": "binding017_0"
+      },
+      {
+        "alias": "MA014",
+        "entity": "MKnownN049",
+        "episode_id": "episode017",
+        "id": "binding017_1"
+      },
+      {
+        "alias": "MA036",
+        "entity": "MKnownN061",
+        "episode_id": "episode017",
+        "id": "binding017_2"
+      },
+      {
+        "alias": "MA010",
+        "entity": "MKnownN058",
+        "episode_id": "episode017",
+        "id": "binding017_3"
+      },
+      {
+        "alias": "MA036",
+        "entity": "MKnownN061",
+        "episode_id": "episode018",
+        "id": "binding018_0"
+      },
+      {
+        "alias": "MA010",
+        "entity": "MKnownN058",
+        "episode_id": "episode018",
+        "id": "binding018_1"
+      },
+      {
+        "alias": "MA006",
+        "entity": "MKnownN007",
+        "episode_id": "episode018",
+        "id": "binding018_2"
+      },
+      {
+        "alias": "MA061",
+        "entity": "MKnownN000",
+        "episode_id": "episode018",
+        "id": "binding018_3"
+      },
+      {
+        "alias": "MA006",
+        "entity": "MKnownN007",
+        "episode_id": "episode019",
+        "id": "binding019_0"
+      },
+      {
+        "alias": "MA061",
+        "entity": "MKnownN000",
+        "episode_id": "episode019",
+        "id": "binding019_1"
+      },
+      {
+        "alias": "MA063",
+        "entity": "MKnownN011",
+        "episode_id": "episode019",
+        "id": "binding019_2"
+      },
+      {
+        "alias": "MA046",
+        "entity": "MKnownN037",
+        "episode_id": "episode019",
+        "id": "binding019_3"
+      },
+      {
+        "alias": "MA063",
+        "entity": "MKnownN011",
+        "episode_id": "episode020",
+        "id": "binding020_0"
+      },
+      {
+        "alias": "MA046",
+        "entity": "MKnownN037",
+        "episode_id": "episode020",
+        "id": "binding020_1"
+      },
+      {
+        "alias": "MA022",
+        "entity": "MKnownN012",
+        "episode_id": "episode020",
+        "id": "binding020_2"
+      },
+      {
+        "alias": "MA029",
+        "entity": "MKnownN034",
+        "episode_id": "episode020",
+        "id": "binding020_3"
+      },
+      {
+        "alias": "MA022",
+        "entity": "MKnownN012",
+        "episode_id": "episode021",
+        "id": "binding021_0"
+      },
+      {
+        "alias": "MA029",
+        "entity": "MKnownN034",
+        "episode_id": "episode021",
+        "id": "binding021_1"
+      },
+      {
+        "alias": "MA026",
+        "entity": "MKnownN017",
+        "episode_id": "episode021",
+        "id": "binding021_2"
+      },
+      {
+        "alias": "MA057",
+        "entity": "MKnownN014",
+        "episode_id": "episode021",
+        "id": "binding021_3"
+      },
+      {
+        "alias": "MA026",
+        "entity": "MKnownN017",
+        "episode_id": "episode022",
+        "id": "binding022_0"
+      },
+      {
+        "alias": "MA057",
+        "entity": "MKnownN014",
+        "episode_id": "episode022",
+        "id": "binding022_1"
+      },
+      {
+        "alias": "MA058",
+        "entity": "MKnownN015",
+        "episode_id": "episode022",
+        "id": "binding022_2"
+      },
+      {
+        "alias": "MA012",
+        "entity": "MKnownN003",
+        "episode_id": "episode022",
+        "id": "binding022_3"
+      },
+      {
+        "alias": "MA058",
+        "entity": "MKnownN015",
+        "episode_id": "episode023",
+        "id": "binding023_0"
+      },
+      {
+        "alias": "MA012",
+        "entity": "MKnownN003",
+        "episode_id": "episode023",
+        "id": "binding023_1"
+      },
+      {
+        "alias": "MA056",
+        "entity": "MKnownN004",
+        "episode_id": "episode023",
+        "id": "binding023_2"
+      },
+      {
+        "alias": "MA007",
+        "entity": "MKnownN047",
+        "episode_id": "episode023",
+        "id": "binding023_3"
+      },
+      {
+        "alias": "MA056",
+        "entity": "MKnownN004",
+        "episode_id": "episode024",
+        "id": "binding024_0"
+      },
+      {
+        "alias": "MA007",
+        "entity": "MKnownN047",
+        "episode_id": "episode024",
+        "id": "binding024_1"
+      },
+      {
+        "alias": "MA017",
+        "entity": "MKnownN009",
+        "episode_id": "episode024",
+        "id": "binding024_2"
+      },
+      {
+        "alias": "MA039",
+        "entity": "MKnownN038",
+        "episode_id": "episode024",
+        "id": "binding024_3"
+      },
+      {
+        "alias": "MA017",
+        "entity": "MKnownN009",
+        "episode_id": "episode025",
+        "id": "binding025_0"
+      },
+      {
+        "alias": "MA039",
+        "entity": "MKnownN038",
+        "episode_id": "episode025",
+        "id": "binding025_1"
+      },
+      {
+        "alias": "MA062",
+        "entity": "MKnownN029",
+        "episode_id": "episode025",
+        "id": "binding025_2"
+      },
+      {
+        "alias": "MA052",
+        "entity": "MKnownN063",
+        "episode_id": "episode025",
+        "id": "binding025_3"
+      },
+      {
+        "alias": "MA062",
+        "entity": "MKnownN029",
+        "episode_id": "episode026",
+        "id": "binding026_0"
+      },
+      {
+        "alias": "MA052",
+        "entity": "MKnownN063",
+        "episode_id": "episode026",
+        "id": "binding026_1"
+      },
+      {
+        "alias": "MA027",
+        "entity": "MKnownN036",
+        "episode_id": "episode026",
+        "id": "binding026_2"
+      },
+      {
+        "alias": "MA034",
+        "entity": "MKnownN054",
+        "episode_id": "episode026",
+        "id": "binding026_3"
+      },
+      {
+        "alias": "MA027",
+        "entity": "MKnownN036",
+        "episode_id": "episode027",
+        "id": "binding027_0"
+      },
+      {
+        "alias": "MA034",
+        "entity": "MKnownN054",
+        "episode_id": "episode027",
+        "id": "binding027_1"
+      },
+      {
+        "alias": "MA016",
+        "entity": "MKnownN021",
+        "episode_id": "episode027",
+        "id": "binding027_2"
+      },
+      {
+        "alias": "MA018",
+        "entity": "MKnownN001",
+        "episode_id": "episode027",
+        "id": "binding027_3"
+      },
+      {
+        "alias": "MA016",
+        "entity": "MKnownN021",
+        "episode_id": "episode028",
+        "id": "binding028_0"
+      },
+      {
+        "alias": "MA018",
+        "entity": "MKnownN001",
+        "episode_id": "episode028",
+        "id": "binding028_1"
+      },
+      {
+        "alias": "MA044",
+        "entity": "MKnownN056",
+        "episode_id": "episode028",
+        "id": "binding028_2"
+      },
+      {
+        "alias": "MA008",
+        "entity": "MKnownN027",
+        "episode_id": "episode028",
+        "id": "binding028_3"
+      },
+      {
+        "alias": "MA044",
+        "entity": "MKnownN056",
+        "episode_id": "episode029",
+        "id": "binding029_0"
+      },
+      {
+        "alias": "MA008",
+        "entity": "MKnownN027",
+        "episode_id": "episode029",
+        "id": "binding029_1"
+      },
+      {
+        "alias": "MA028",
+        "entity": "MKnownN043",
+        "episode_id": "episode029",
+        "id": "binding029_2"
+      },
+      {
+        "alias": "MA053",
+        "entity": "MKnownN059",
+        "episode_id": "episode029",
+        "id": "binding029_3"
+      },
+      {
+        "alias": "MA028",
+        "entity": "MKnownN043",
+        "episode_id": "episode030",
+        "id": "binding030_0"
+      },
+      {
+        "alias": "MA053",
+        "entity": "MKnownN059",
+        "episode_id": "episode030",
+        "id": "binding030_1"
+      },
+      {
+        "alias": "MA024",
+        "entity": "MKnownN025",
+        "episode_id": "episode030",
+        "id": "binding030_2"
+      },
+      {
+        "alias": "MA059",
+        "entity": "MKnownN018",
+        "episode_id": "episode030",
+        "id": "binding030_3"
+      },
+      {
+        "alias": "MA024",
+        "entity": "MKnownN025",
+        "episode_id": "episode031",
+        "id": "binding031_0"
+      },
+      {
+        "alias": "MA059",
+        "entity": "MKnownN018",
+        "episode_id": "episode031",
+        "id": "binding031_1"
+      },
+      {
+        "alias": "MA031",
+        "entity": "MKnownN010",
+        "episode_id": "episode031",
+        "id": "binding031_2"
+      },
+      {
+        "alias": "MA060",
+        "entity": "MKnownN022",
+        "episode_id": "episode031",
+        "id": "binding031_3"
+      }
+    ],
+    "episodes": [
+      {
+        "cue": "Cue000",
+        "id": "episode000",
+        "source_text": "Episode Cue000\nMA031 = MKnownN010\nMA060 = MKnownN022\nMA005 = MKnownN052\nMA043 = MKnownN033\n1: MKnownN010 MKnownR1 MKnownN033\n2: MKnownN022 MKnownR1 MKnownN052\n3: MKnownN033 MKnownR3 MKnownN022\n4: MKnownN052 MKnownR3 MKnownN010\n5: MKnownN010 MKnownR2 MKnownN022\n6: MKnownN033 MKnownR2 MKnownN052\n7: MKnownN022 MKnownR0 MKnownN010\n8: MKnownN052 MKnownR0 MKnownN033\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue008",
+        "id": "episode001",
+        "source_text": "Episode Cue008\nMA005 = MKnownN052\nMA043 = MKnownN033\nMA002 = MKnownN039\nMA050 = MKnownN013\n1: MKnownN052 MKnownR2 MKnownN013\n2: MKnownN033 MKnownR2 MKnownN039\n3: MKnownN013 MKnownR3 MKnownN033\n4: MKnownN039 MKnownR3 MKnownN052\n5: MKnownN052 MKnownR1 MKnownN033\n6: MKnownN013 MKnownR1 MKnownN039\n7: MKnownN033 MKnownR0 MKnownN052\n8: MKnownN039 MKnownR0 MKnownN013\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue028",
+        "id": "episode002",
+        "source_text": "Episode Cue028\nMA002 = MKnownN039\nMA050 = MKnownN013\nMA021 = MKnownN062\nMA040 = MKnownN035\n1: MKnownN013 MKnownR0 MKnownN062\n2: MKnownN035 MKnownR0 MKnownN039\n3: MKnownN062 MKnownR1 MKnownN035\n4: MKnownN039 MKnownR1 MKnownN013\n5: MKnownN013 MKnownR3 MKnownN035\n6: MKnownN062 MKnownR3 MKnownN039\n7: MKnownN035 MKnownR2 MKnownN013\n8: MKnownN039 MKnownR2 MKnownN062\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue006",
+        "id": "episode003",
+        "source_text": "Episode Cue006\nMA021 = MKnownN062\nMA040 = MKnownN035\nMA037 = MKnownN028\nMA049 = MKnownN032\n1: MKnownN032 MKnownR1 MKnownN062\n2: MKnownN028 MKnownR1 MKnownN035\n3: MKnownN062 MKnownR2 MKnownN028\n4: MKnownN035 MKnownR2 MKnownN032\n5: MKnownN032 MKnownR0 MKnownN028\n6: MKnownN062 MKnownR0 MKnownN035\n7: MKnownN028 MKnownR3 MKnownN032\n8: MKnownN035 MKnownR3 MKnownN062\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue010",
+        "id": "episode004",
+        "source_text": "Episode Cue010\nMA037 = MKnownN028\nMA049 = MKnownN032\nMA013 = MKnownN053\nMA045 = MKnownN050\n1: MKnownN028 MKnownR3 MKnownN053\n2: MKnownN032 MKnownR3 MKnownN050\n3: MKnownN053 MKnownR1 MKnownN032\n4: MKnownN050 MKnownR1 MKnownN028\n5: MKnownN028 MKnownR2 MKnownN032\n6: MKnownN053 MKnownR2 MKnownN050\n7: MKnownN032 MKnownR0 MKnownN028\n8: MKnownN050 MKnownR0 MKnownN053\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue023",
+        "id": "episode005",
+        "source_text": "Episode Cue023\nMA013 = MKnownN053\nMA045 = MKnownN050\nMA000 = MKnownN002\nMA020 = MKnownN048\n1: MKnownN050 MKnownR3 MKnownN048\n2: MKnownN002 MKnownR3 MKnownN053\n3: MKnownN048 MKnownR2 MKnownN002\n4: MKnownN053 MKnownR2 MKnownN050\n5: MKnownN050 MKnownR1 MKnownN002\n6: MKnownN048 MKnownR1 MKnownN053\n7: MKnownN002 MKnownR0 MKnownN050\n8: MKnownN053 MKnownR0 MKnownN048\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue002",
+        "id": "episode006",
+        "source_text": "Episode Cue002\nMA000 = MKnownN002\nMA020 = MKnownN048\nMA019 = MKnownN016\nMA011 = MKnownN008\n1: MKnownN048 MKnownR0 MKnownN008\n2: MKnownN016 MKnownR0 MKnownN002\n3: MKnownN008 MKnownR1 MKnownN016\n4: MKnownN002 MKnownR1 MKnownN048\n5: MKnownN048 MKnownR3 MKnownN016\n6: MKnownN008 MKnownR3 MKnownN002\n7: MKnownN016 MKnownR2 MKnownN048\n8: MKnownN002 MKnownR2 MKnownN008\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue031",
+        "id": "episode007",
+        "source_text": "Episode Cue031\nMA019 = MKnownN016\nMA011 = MKnownN008\nMA015 = MKnownN042\nMA054 = MKnownN040\n1: MKnownN040 MKnownR1 MKnownN042\n2: MKnownN008 MKnownR1 MKnownN016\n3: MKnownN042 MKnownR0 MKnownN008\n4: MKnownN016 MKnownR0 MKnownN040\n5: MKnownN040 MKnownR2 MKnownN008\n6: MKnownN042 MKnownR2 MKnownN016\n7: MKnownN008 MKnownR3 MKnownN040\n8: MKnownN016 MKnownR3 MKnownN042\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue013",
+        "id": "episode008",
+        "source_text": "Episode Cue013\nMA015 = MKnownN042\nMA054 = MKnownN040\nMA032 = MKnownN055\nMA001 = MKnownN006\n1: MKnownN055 MKnownR3 MKnownN040\n2: MKnownN042 MKnownR3 MKnownN006\n3: MKnownN040 MKnownR0 MKnownN042\n4: MKnownN006 MKnownR0 MKnownN055\n5: MKnownN055 MKnownR2 MKnownN042\n6: MKnownN040 MKnownR2 MKnownN006\n7: MKnownN042 MKnownR1 MKnownN055\n8: MKnownN006 MKnownR1 MKnownN040\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue030",
+        "id": "episode009",
+        "source_text": "Episode Cue030\nMA032 = MKnownN055\nMA001 = MKnownN006\nMA009 = MKnownN046\nMA038 = MKnownN045\n1: MKnownN055 MKnownR3 MKnownN006\n2: MKnownN046 MKnownR3 MKnownN045\n3: MKnownN006 MKnownR0 MKnownN046\n4: MKnownN045 MKnownR0 MKnownN055\n5: MKnownN055 MKnownR2 MKnownN046\n6: MKnownN006 MKnownR2 MKnownN045\n7: MKnownN046 MKnownR1 MKnownN055\n8: MKnownN045 MKnownR1 MKnownN006\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue022",
+        "id": "episode010",
+        "source_text": "Episode Cue022\nMA009 = MKnownN046\nMA038 = MKnownN045\nMA041 = MKnownN023\nMA042 = MKnownN057\n1: MKnownN023 MKnownR3 MKnownN045\n2: MKnownN046 MKnownR3 MKnownN057\n3: MKnownN045 MKnownR2 MKnownN046\n4: MKnownN057 MKnownR2 MKnownN023\n5: MKnownN023 MKnownR0 MKnownN046\n6: MKnownN045 MKnownR0 MKnownN057\n7: MKnownN046 MKnownR1 MKnownN023\n8: MKnownN057 MKnownR1 MKnownN045\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue015",
+        "id": "episode011",
+        "source_text": "Episode Cue015\nMA041 = MKnownN023\nMA042 = MKnownN057\nMA025 = MKnownN005\nMA033 = MKnownN019\n1: MKnownN005 MKnownR0 MKnownN019\n2: MKnownN057 MKnownR0 MKnownN023\n3: MKnownN019 MKnownR3 MKnownN057\n4: MKnownN023 MKnownR3 MKnownN005\n5: MKnownN005 MKnownR2 MKnownN057\n6: MKnownN019 MKnownR2 MKnownN023\n7: MKnownN057 MKnownR1 MKnownN005\n8: MKnownN023 MKnownR1 MKnownN019\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue027",
+        "id": "episode012",
+        "source_text": "Episode Cue027\nMA025 = MKnownN005\nMA033 = MKnownN019\nMA004 = MKnownN024\nMA003 = MKnownN020\n1: MKnownN020 MKnownR2 MKnownN019\n2: MKnownN024 MKnownR2 MKnownN005\n3: MKnownN019 MKnownR0 MKnownN024\n4: MKnownN005 MKnownR0 MKnownN020\n5: MKnownN020 MKnownR1 MKnownN024\n6: MKnownN019 MKnownR1 MKnownN005\n7: MKnownN024 MKnownR3 MKnownN020\n8: MKnownN005 MKnownR3 MKnownN019\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue024",
+        "id": "episode013",
+        "source_text": "Episode Cue024\nMA004 = MKnownN024\nMA003 = MKnownN020\nMA047 = MKnownN044\nMA030 = MKnownN026\n1: MKnownN026 MKnownR3 MKnownN020\n2: MKnownN044 MKnownR3 MKnownN024\n3: MKnownN020 MKnownR1 MKnownN044\n4: MKnownN024 MKnownR1 MKnownN026\n5: MKnownN026 MKnownR0 MKnownN044\n6: MKnownN020 MKnownR0 MKnownN024\n7: MKnownN044 MKnownR2 MKnownN026\n8: MKnownN024 MKnownR2 MKnownN020\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue005",
+        "id": "episode014",
+        "source_text": "Episode Cue005\nMA047 = MKnownN044\nMA030 = MKnownN026\nMA023 = MKnownN060\nMA048 = MKnownN041\n1: MKnownN060 MKnownR1 MKnownN026\n2: MKnownN041 MKnownR1 MKnownN044\n3: MKnownN026 MKnownR3 MKnownN041\n4: MKnownN044 MKnownR3 MKnownN060\n5: MKnownN060 MKnownR2 MKnownN041\n6: MKnownN026 MKnownR2 MKnownN044\n7: MKnownN041 MKnownR0 MKnownN060\n8: MKnownN044 MKnownR0 MKnownN026\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue003",
+        "id": "episode015",
+        "source_text": "Episode Cue003\nMA023 = MKnownN060\nMA048 = MKnownN041\nMA051 = MKnownN031\nMA055 = MKnownN051\n1: MKnownN031 MKnownR3 MKnownN041\n2: MKnownN051 MKnownR3 MKnownN060\n3: MKnownN041 MKnownR1 MKnownN051\n4: MKnownN060 MKnownR1 MKnownN031\n5: MKnownN031 MKnownR0 MKnownN051\n6: MKnownN041 MKnownR0 MKnownN060\n7: MKnownN051 MKnownR2 MKnownN031\n8: MKnownN060 MKnownR2 MKnownN041\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue011",
+        "id": "episode016",
+        "source_text": "Episode Cue011\nMA051 = MKnownN031\nMA055 = MKnownN051\nMA035 = MKnownN030\nMA014 = MKnownN049\n1: MKnownN031 MKnownR2 MKnownN049\n2: MKnownN030 MKnownR2 MKnownN051\n3: MKnownN049 MKnownR3 MKnownN030\n4: MKnownN051 MKnownR3 MKnownN031\n5: MKnownN031 MKnownR1 MKnownN030\n6: MKnownN049 MKnownR1 MKnownN051\n7: MKnownN030 MKnownR0 MKnownN031\n8: MKnownN051 MKnownR0 MKnownN049\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue025",
+        "id": "episode017",
+        "source_text": "Episode Cue025\nMA035 = MKnownN030\nMA014 = MKnownN049\nMA036 = MKnownN061\nMA010 = MKnownN058\n1: MKnownN049 MKnownR3 MKnownN058\n2: MKnownN061 MKnownR3 MKnownN030\n3: MKnownN058 MKnownR1 MKnownN061\n4: MKnownN030 MKnownR1 MKnownN049\n5: MKnownN049 MKnownR0 MKnownN061\n6: MKnownN058 MKnownR0 MKnownN030\n7: MKnownN061 MKnownR2 MKnownN049\n8: MKnownN030 MKnownR2 MKnownN058\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue016",
+        "id": "episode018",
+        "source_text": "Episode Cue016\nMA036 = MKnownN061\nMA010 = MKnownN058\nMA006 = MKnownN007\nMA061 = MKnownN000\n1: MKnownN061 MKnownR3 MKnownN007\n2: MKnownN058 MKnownR3 MKnownN000\n3: MKnownN007 MKnownR1 MKnownN058\n4: MKnownN000 MKnownR1 MKnownN061\n5: MKnownN061 MKnownR2 MKnownN058\n6: MKnownN007 MKnownR2 MKnownN000\n7: MKnownN058 MKnownR0 MKnownN061\n8: MKnownN000 MKnownR0 MKnownN007\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue020",
+        "id": "episode019",
+        "source_text": "Episode Cue020\nMA006 = MKnownN007\nMA061 = MKnownN000\nMA063 = MKnownN011\nMA046 = MKnownN037\n1: MKnownN037 MKnownR0 MKnownN000\n2: MKnownN011 MKnownR0 MKnownN007\n3: MKnownN000 MKnownR3 MKnownN011\n4: MKnownN007 MKnownR3 MKnownN037\n5: MKnownN037 MKnownR2 MKnownN011\n6: MKnownN000 MKnownR2 MKnownN007\n7: MKnownN011 MKnownR1 MKnownN037\n8: MKnownN007 MKnownR1 MKnownN000\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue026",
+        "id": "episode020",
+        "source_text": "Episode Cue026\nMA063 = MKnownN011\nMA046 = MKnownN037\nMA022 = MKnownN012\nMA029 = MKnownN034\n1: MKnownN037 MKnownR1 MKnownN011\n2: MKnownN034 MKnownR1 MKnownN012\n3: MKnownN011 MKnownR0 MKnownN034\n4: MKnownN012 MKnownR0 MKnownN037\n5: MKnownN037 MKnownR3 MKnownN034\n6: MKnownN011 MKnownR3 MKnownN012\n7: MKnownN034 MKnownR2 MKnownN037\n8: MKnownN012 MKnownR2 MKnownN011\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue019",
+        "id": "episode021",
+        "source_text": "Episode Cue019\nMA022 = MKnownN012\nMA029 = MKnownN034\nMA026 = MKnownN017\nMA057 = MKnownN014\n1: MKnownN034 MKnownR0 MKnownN014\n2: MKnownN017 MKnownR0 MKnownN012\n3: MKnownN014 MKnownR2 MKnownN017\n4: MKnownN012 MKnownR2 MKnownN034\n5: MKnownN034 MKnownR3 MKnownN017\n6: MKnownN014 MKnownR3 MKnownN012\n7: MKnownN017 MKnownR1 MKnownN034\n8: MKnownN012 MKnownR1 MKnownN014\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue007",
+        "id": "episode022",
+        "source_text": "Episode Cue007\nMA026 = MKnownN017\nMA057 = MKnownN014\nMA058 = MKnownN015\nMA012 = MKnownN003\n1: MKnownN014 MKnownR1 MKnownN015\n2: MKnownN017 MKnownR1 MKnownN003\n3: MKnownN015 MKnownR3 MKnownN017\n4: MKnownN003 MKnownR3 MKnownN014\n5: MKnownN014 MKnownR0 MKnownN017\n6: MKnownN015 MKnownR0 MKnownN003\n7: MKnownN017 MKnownR2 MKnownN014\n8: MKnownN003 MKnownR2 MKnownN015\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue004",
+        "id": "episode023",
+        "source_text": "Episode Cue004\nMA058 = MKnownN015\nMA012 = MKnownN003\nMA056 = MKnownN004\nMA007 = MKnownN047\n1: MKnownN047 MKnownR2 MKnownN015\n2: MKnownN003 MKnownR2 MKnownN004\n3: MKnownN015 MKnownR3 MKnownN003\n4: MKnownN004 MKnownR3 MKnownN047\n5: MKnownN047 MKnownR0 MKnownN003\n6: MKnownN015 MKnownR0 MKnownN004\n7: MKnownN003 MKnownR1 MKnownN047\n8: MKnownN004 MKnownR1 MKnownN015\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue021",
+        "id": "episode024",
+        "source_text": "Episode Cue021\nMA056 = MKnownN004\nMA007 = MKnownN047\nMA017 = MKnownN009\nMA039 = MKnownN038\n1: MKnownN009 MKnownR3 MKnownN038\n2: MKnownN047 MKnownR3 MKnownN004\n3: MKnownN038 MKnownR0 MKnownN047\n4: MKnownN004 MKnownR0 MKnownN009\n5: MKnownN009 MKnownR2 MKnownN047\n6: MKnownN038 MKnownR2 MKnownN004\n7: MKnownN047 MKnownR1 MKnownN009\n8: MKnownN004 MKnownR1 MKnownN038\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue009",
+        "id": "episode025",
+        "source_text": "Episode Cue009\nMA017 = MKnownN009\nMA039 = MKnownN038\nMA062 = MKnownN029\nMA052 = MKnownN063\n1: MKnownN038 MKnownR0 MKnownN063\n2: MKnownN029 MKnownR0 MKnownN009\n3: MKnownN063 MKnownR3 MKnownN029\n4: MKnownN009 MKnownR3 MKnownN038\n5: MKnownN038 MKnownR1 MKnownN029\n6: MKnownN063 MKnownR1 MKnownN009\n7: MKnownN029 MKnownR2 MKnownN038\n8: MKnownN009 MKnownR2 MKnownN063\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue029",
+        "id": "episode026",
+        "source_text": "Episode Cue029\nMA062 = MKnownN029\nMA052 = MKnownN063\nMA027 = MKnownN036\nMA034 = MKnownN054\n1: MKnownN029 MKnownR0 MKnownN063\n2: MKnownN054 MKnownR0 MKnownN036\n3: MKnownN063 MKnownR3 MKnownN054\n4: MKnownN036 MKnownR3 MKnownN029\n5: MKnownN029 MKnownR1 MKnownN054\n6: MKnownN063 MKnownR1 MKnownN036\n7: MKnownN054 MKnownR2 MKnownN029\n8: MKnownN036 MKnownR2 MKnownN063\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue012",
+        "id": "episode027",
+        "source_text": "Episode Cue012\nMA027 = MKnownN036\nMA034 = MKnownN054\nMA016 = MKnownN021\nMA018 = MKnownN001\n1: MKnownN001 MKnownR1 MKnownN054\n2: MKnownN021 MKnownR1 MKnownN036\n3: MKnownN054 MKnownR3 MKnownN021\n4: MKnownN036 MKnownR3 MKnownN001\n5: MKnownN001 MKnownR0 MKnownN021\n6: MKnownN054 MKnownR0 MKnownN036\n7: MKnownN021 MKnownR2 MKnownN001\n8: MKnownN036 MKnownR2 MKnownN054\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue014",
+        "id": "episode028",
+        "source_text": "Episode Cue014\nMA016 = MKnownN021\nMA018 = MKnownN001\nMA044 = MKnownN056\nMA008 = MKnownN027\n1: MKnownN027 MKnownR1 MKnownN001\n2: MKnownN056 MKnownR1 MKnownN021\n3: MKnownN001 MKnownR0 MKnownN056\n4: MKnownN021 MKnownR0 MKnownN027\n5: MKnownN027 MKnownR3 MKnownN056\n6: MKnownN001 MKnownR3 MKnownN021\n7: MKnownN056 MKnownR2 MKnownN027\n8: MKnownN021 MKnownR2 MKnownN001\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue001",
+        "id": "episode029",
+        "source_text": "Episode Cue001\nMA044 = MKnownN056\nMA008 = MKnownN027\nMA028 = MKnownN043\nMA053 = MKnownN059\n1: MKnownN043 MKnownR1 MKnownN056\n2: MKnownN027 MKnownR1 MKnownN059\n3: MKnownN056 MKnownR2 MKnownN027\n4: MKnownN059 MKnownR2 MKnownN043\n5: MKnownN043 MKnownR3 MKnownN027\n6: MKnownN056 MKnownR3 MKnownN059\n7: MKnownN027 MKnownR0 MKnownN043\n8: MKnownN059 MKnownR0 MKnownN056\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue017",
+        "id": "episode030",
+        "source_text": "Episode Cue017\nMA028 = MKnownN043\nMA053 = MKnownN059\nMA024 = MKnownN025\nMA059 = MKnownN018\n1: MKnownN059 MKnownR3 MKnownN018\n2: MKnownN025 MKnownR3 MKnownN043\n3: MKnownN018 MKnownR2 MKnownN025\n4: MKnownN043 MKnownR2 MKnownN059\n5: MKnownN059 MKnownR0 MKnownN025\n6: MKnownN018 MKnownR0 MKnownN043\n7: MKnownN025 MKnownR1 MKnownN059\n8: MKnownN043 MKnownR1 MKnownN018\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      },
+      {
+        "cue": "Cue018",
+        "id": "episode031",
+        "source_text": "Episode Cue018\nMA024 = MKnownN025\nMA059 = MKnownN018\nMA031 = MKnownN010\nMA060 = MKnownN022\n1: MKnownN018 MKnownR3 MKnownN010\n2: MKnownN022 MKnownR3 MKnownN025\n3: MKnownN010 MKnownR0 MKnownN022\n4: MKnownN025 MKnownR0 MKnownN018\n5: MKnownN018 MKnownR2 MKnownN022\n6: MKnownN010 MKnownR2 MKnownN025\n7: MKnownN022 MKnownR1 MKnownN018\n8: MKnownN025 MKnownR1 MKnownN010\nSymbols Sym00 Sym01 Sym02 Sym03 Sym04 Sym05 Sym06 Sym07 Sym08 Sym09 Sym10 Sym11 Sym12 Sym13 Sym14 Sym15 Sym16\n"
+      }
+    ]
+  },
+  "query": {
+    "cue": null,
+    "episode_constraint": "distinct",
+    "first_cue": "Cue000",
+    "id": "join00",
+    "kind": "join",
+    "relations": [
+      "MKnownR1",
+      "MKnownR3"
+    ],
+    "second_cue": "Cue008",
+    "start": {
+      "cue": "Cue000",
+      "kind": "alias",
+      "value": "MA031"
+    }
+  }
+}

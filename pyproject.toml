@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "relational-episodes"
+version = "1.0.0"
+description = "Exact immutable joins and episodic alias bindings for L3/L5"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+relational-episodes = "relational_episodes.__main__:main"
+
+[tool.setuptools]
+packages = ["relational_episodes"]
