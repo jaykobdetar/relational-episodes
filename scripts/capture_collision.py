@@ -1,4 +1,7 @@
-"""Preserve the first failed split-guard case before changing canonicalization."""
+"""Historical diagnostic, not a way to reconstruct missing original evidence.
+
+The corrected fingerprint is expected not to reproduce the former collision.
+"""
 from pathlib import Path
 import sys
 sys.path.insert(0,str(Path(__file__).resolve().parent.parent))
@@ -13,8 +16,9 @@ for family in families(c):
     for r in family:
         fp=r['audit']['fingerprint']
         if fp in seen and seen[fp]['episode_set_or_graph_id']!=r['episode_set_or_graph_id']:
-            out=Path('reports/canonical_collision_01.json')
+            out=Path('reports/current_collision.json')
+            out.parent.mkdir(parents=True, exist_ok=True)
             with out.open('x') as f:f.write(dumps({'status':'retained_failed_guard_case','config':c,'first':seen[fp],'second':r})+'\n')
             print(dumps({'first':seen[fp]['id'],'second':r['id'],'fingerprint':fp,'evidence':str(out)}));raise SystemExit(0)
         seen[fp]=r
-raise SystemExit('expected collision was not reproduced')
+raise SystemExit('No current collision found; missing historical evidence cannot be reconstructed by this script')

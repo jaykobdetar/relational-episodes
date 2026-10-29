@@ -1,3 +1,5 @@
+> Historical notes: referenced input specifications and correspondence are absent from this source distribution. The claims of receipt below cannot be verified from Git history.
+
 # G3 contract decisions and pending architect response
 
 2026-10-02 initial implementation questions were sent to the coordinating parent before generating any examples or labels:

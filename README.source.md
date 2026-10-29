@@ -1,3 +1,5 @@
+> Historical documentation preserved from the source snapshot. Referenced reports, input specifications, and dataset card were not included; execution claims below are unverified historical claims, not results for this checkout. See [current README](README.md).
+
 # Relational episodes (G3)
 
 A standard-library Python generator for two separate experiment lanes:
@@ -48,7 +50,7 @@ The data format cannot enforce memory accounting in downstream code. The manifes
 
 ## Formal semantics
 
-See [SEMANTICS.md](docs/SEMANTICS.md) and [record schema](schemas/record-v1.schema.json). Runtime validation adds reference, type, occurrence, renderer, oracle and lineage checks that JSON Schema cannot express.
+See [SEMANTICS.md](docs/SEMANTICS.md) and [record schema](relational_episodes/schemas/record-v1.schema.json). Runtime validation adds reference, type, occurrence, renderer, oracle and lineage checks that JSON Schema cannot express.
 
 Atomic and join answers are **sets of public entity names**, including the empty set. Multiple paths to an endpoint do not duplicate the answer, but every edge/binding witness is retained in evaluation traces. All-matching answers are sets of public `{cue, occurrence, subject, relation, object}` event values. Repeated identical facts keep different visible ordinals. There is no closed-world claim beyond evaluating this finite immutable source system, and no probability label.
 
@@ -73,7 +75,7 @@ For L3, stop or redesign if initial join competence is below 70% while atom accu
 
 ## Evidence and delivery status
 
-[DATASET_CARD.md](DATASET_CARD.md) describes cells, metrics and limitations. [reports/VALIDATION.md](reports/VALIDATION.md) records actual execution outcomes, resource pauses, failures and repairs. The delivered smoke has 37 records / 11 families, 857 questions and 919 witnesses/certificates. All 28 tests and the complete independent oracle checks passed, and regeneration is byte-identical. The four exported streams total 4,784,001 bytes. The parent will arrange independent cross-review before Library packaging; none is claimed here.
+`DATASET_CARD.md` (unavailable) describes cells, metrics and limitations. `reports/VALIDATION.md` (unavailable) records actual execution outcomes, resource pauses, failures and repairs. The delivered smoke has 37 records / 11 families, 857 questions and 919 witnesses/certificates. All 28 tests and the complete independent oracle checks passed, and regeneration is byte-identical. The four exported streams total 4,784,001 bytes. The parent will arrange independent cross-review before Library packaging; none is claimed here.
 
 Pinned experiment specs are in `inputs/`; `semantic_conventions_v1.2.json` is authoritative. Its SHA-256 is `ce59d56544010c31acc676d31539074263addbb954ebfc226d40ec8d93b76dcb`. The semantic history explicitly identifies the architect's initial-history snapshot as reconstructed, not contemporaneous. Our earlier local v1 copy is retained as read at the time and superseded by v1.2.
 
