@@ -58,4 +58,4 @@ The repository began with a single source-preservation commit for the user-selec
 
 The pinned `inputs/` specifications, historical datasets, dataset card, validation reports, and `reports/canonical_collision_01.json` were not included. They have not been invented or recovered. The semantic-contract identifier in configs is a historical identifier, not proof of conformance to an available specification. Fresh manifests explicitly mark missing pinned specifications. [README.source.md](README.source.md) preserves historical documentation with this qualification.
 
-Licensed under the [MIT License](LICENSE) at the owner's direction. Existing third-party notices remain applicable; no notices were removed. Keep the repository private pending the [release checklist](docs/RELEASE_READINESS.md).
+Licensed under the [MIT License](LICENSE) at the owner's direction. Existing third-party notices remain applicable; no notices were removed. The repository is public following owner-approved release on 2026-10-29. See the [release checklist](docs/RELEASE_READINESS.md) for release-preparation evidence and limitations.
