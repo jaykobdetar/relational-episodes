@@ -11,15 +11,16 @@ from relational_episodes.resources import check_headroom, limits
 limits()
 root = Path(__file__).resolve().parent.parent
 reports = root/"reports"
+reports.mkdir(parents=True, exist_ok=True)
 index = 1
-while (reports/f"test_run_{index:02}.log").exists(): index += 1
+while any((reports/f"test_run_{index:02}.{suffix}").exists() for suffix in ("log", "json")): index += 1
 log = reports/f"test_run_{index:02}.log"
 report_path = reports/f"test_run_{index:02}.json"
 started = time.monotonic()
 try:
     gate = check_headroom()
 except Exception as exc:
-    log.write_text(f"PAUSED: {exc}\n")
+    with log.open("x") as stream: stream.write(f"PAUSED: {exc}\n")
     report_path.write_text(dumps({"status":"paused","reason":str(exc)})+"\n")
     print(log.read_text()); raise SystemExit(2)
 with log.open("x") as stream:

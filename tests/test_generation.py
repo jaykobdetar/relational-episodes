@@ -20,13 +20,20 @@ class Generation(unittest.TestCase):
         c = config(); c["structural"]["interface_train"] = 1; c["episodic"]["development"] = 1
         cls.groups = list(families(c))
 
+    @unittest.skipUnless((Path(__file__).resolve().parents[1]/"reports/canonical_collision_01.json").is_file(),
+                         "Historical collision evidence was not included in the source snapshot")
     def test_retained_regular_episode_collision_regression(self):
         evidence = loads((Path(__file__).resolve().parents[1]/"reports/canonical_collision_01.json").read_text())
         first,second = evidence["first"],evidence["second"]
         self.assertEqual(first["audit"]["fingerprint"],second["audit"]["fingerprint"])
         self.assertNotEqual(fingerprint(world_of(first)),fingerprint(world_of(second)))
-        # Check full 64-entity/4-relation renaming and row-order invariance,
-        # including the exact regular world that previously collided.
+        self.assert_renaming_invariant(first)
+
+    def test_generated_episode_renaming_invariance(self):
+        # Fresh deterministic coverage, not a replacement for historical evidence.
+        self.assert_renaming_invariant(self.groups[1][0])
+
+    def assert_renaming_invariant(self, first):
         raw = {k:copy.deepcopy(first[k]) for k in WORLD_KEYS}
         mapping = {}
         for key in ("entities","relations","source_edges","aliases_with_scope","episodes"):

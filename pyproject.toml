@@ -5,6 +5,8 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "relational-episodes"
 version = "1.0.0"
+readme = "README.md"
+classifiers = ["Operating System :: POSIX :: Linux"]
 description = "Exact immutable joins and episodic alias bindings for L3/L5"
 requires-python = ">=3.10"
 dependencies = []
@@ -14,3 +16,6 @@ relational-episodes = "relational_episodes.__main__:main"
 
 [tool.setuptools]
 packages = ["relational_episodes"]
+
+[tool.setuptools.package-data]
+relational_episodes = ["schemas/*.json"]
