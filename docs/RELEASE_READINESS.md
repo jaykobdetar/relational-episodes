@@ -27,13 +27,14 @@ Linux, CPython 3.14.7. No model, GPU, training workload, full-capacity generatio
 | Installed package, working directory outside checkout | Built and validated one structural family / two records under the supervisor; packaged schema digest `7bf509020273eeb6e6be56a4bb26bcc43568e832a84901572b5152111076fc55`; missing-spec status explicitly present. |
 | CLI help, committed solve/score examples | Passed; solve cross-checks direct/SQLite answers; scoring reports valid and exact. |
 | Optional schema helper | Fresh two-record CLI build passed Draft 2020-12 validation with jsonschema 4.26.0 under the supervisor. |
+| MIT licensing follow-up | Rebuilt wheel successfully; verified `License-Expression: MIT`, `License-File: LICENSE`, exact bundled license text, retained runtime schema, and matching pyproject declarations. No runtime source changed; the earlier semantic test results above were not rerun for this metadata-only change. |
 | Whitespace review | `git diff --check` passed. |
 
 Detailed generated execution receipts remain local under ignored `reports/`; the facts above are a human-readable review record. Historical reports have not been restored. Python 3.10–3.13 and non-Linux systems were not tested. Full smoke/configuration-capacity runs and cross-version reproducibility are not claimed.
 
 ## Owner decisions and remaining blockers
 
-- [ ] Confirm authorship and third-party provenance, preserve any required notices, then choose and add an appropriate license. No license was invented or applied during this review.
+- [x] Applied MIT licensing at the owner's explicit direction on 2026-10-29. The owner stated that all code was created by AI. This is recorded provenance, not independent verification of authorship or legal rights. No existing third-party notices were removed. Package metadata declares MIT and includes LICENSE.
 - [ ] Decide whether public scope is explicitly the experimental source-only toolkit. If claiming historical reproduction or protocol conformance, recover and review the missing pinned specifications, original collision fixture, dataset card and original validation artifacts first. Do not substitute freshly generated data for historical evidence.
 - [ ] Review the private draft PR and its exact branch, then separately authorize any public visibility change.
 - [ ] Before research claims: complete answer-entropy balancing, pretrained-tokenizer audit, competence gates, adequate independent samples and external review. Current tests establish finite implementation behavior only.

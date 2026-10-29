@@ -54,8 +54,8 @@ The L5 generator implements five one-factor pilot cells, not a complete factoria
 
 ## Provenance and release status
 
-The repository began with a single source-preservation commit for the user-selected P0254 project on 2026-10-29. The user described the work as AI-assisted. Original development history was not imported; authorship and scientific evidence cannot be established by this snapshot alone.
+The repository began with a single source-preservation commit for the user-selected P0254 project on 2026-10-29. The owner stated on 2026-10-29 that all code was created by AI and explicitly authorized MIT licensing. This records the owner's assertion and instruction, not an independent determination of authorship or third-party rights. Original development history was not imported; authorship and scientific evidence cannot be established by this snapshot alone.
 
 The pinned `inputs/` specifications, historical datasets, dataset card, validation reports, and `reports/canonical_collision_01.json` were not included. They have not been invented or recovered. The semantic-contract identifier in configs is a historical identifier, not proof of conformance to an available specification. Fresh manifests explicitly mark missing pinned specifications. [README.source.md](README.source.md) preserves historical documentation with this qualification.
 
-No license has been granted in this repository. The owner must confirm provenance, third-party rights and a license before an open-source release. Keep the repository private pending the [release checklist](docs/RELEASE_READINESS.md).
+Licensed under the [MIT License](LICENSE) at the owner's direction. Existing third-party notices remain applicable; no notices were removed. Keep the repository private pending the [release checklist](docs/RELEASE_READINESS.md).
